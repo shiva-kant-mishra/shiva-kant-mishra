@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in PYTHON, JAVA, C++, C , Mainframe Technologies (COBOL, REXX, DB2) , and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to restart the career as software engineer with a reputed firm driven by technology .
+My stronger side is design and integration with intuitive problem-solving skills. I am proficient in PYTHON, JAVA, C++, C , Mainframe Technologies (COBOL, REXX, DB2) , and SQL. Also passionate about implementing and launching new projects. Have ability to translate business requirements into technical solutions.
 
 - 🔭 I’m currently working on Tree Algo visualization.
 - 🌱 Actively working towards honing my skills in competitive programming with Scaler Academy.
